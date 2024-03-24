@@ -13,7 +13,7 @@ class YesChefGPT:
         model="gpt-3.5-turbo",
     ):
         
-        self.client = OpenAI(api_key='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')
+        self.client = OpenAI(api_key='...........')
         self.messages = [
             {
                 "role": "system",
