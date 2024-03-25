@@ -7,6 +7,6 @@ OpenAi Chef
 
 
 Team25: 
-Participated Members and IDs
-qvWTHr     @Stan_lee 
-aHcdW3    @milorday 
+Participated Members and IDs: (aHcdW3    @milorday)  and  (qvWTHr     @Stan_lee) 
+
+
